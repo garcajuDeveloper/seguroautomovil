@@ -1,0 +1,16 @@
+export const HEADER_TITLE_TEXT_H1 = "SecurMyCar";
+export const INFO_FORM_OPTION_1 = "--- Seleccione ---";
+export const INFO_FORM_OPTION_2 = "SUV";
+export const INFO_FORM_OPTION_3 = "Berlina";
+export const INFO_FORM_OPTION_4 = "Compacto";
+export const INFO_FORM_OPTION_5 = "Cabriolet";
+export const INFO_FORM_OPTION_6 = "Utilitario";
+export const INFO_FORM_TERCEROS_RADIO_OPTION = "Terceros";
+export const INFO_FORM_TODO_RIESGO_RADIO_OPTION = "Todo Riesgo";
+export const INFO_FORM_CALCULAR_BUTTON = "Calcular";
+export const INFO_FORM_TYPE_SELECT_NAME = "type";
+export const INFO_FORM_YEAR_SELECT_NAME = "year";
+export const INFO_FORM_BASIC_CHEK_CHECKED = "basic";
+export const INFO_FORM_COMPLETE_CHEK_CHECKED = "complete";
+export const INFO_FORM_ERROR_TEXT = "Rellena TODOS los campos";
+export const PRICE_RESULT_MESSAGE_P = "Elige tipo, año y modalidad";
